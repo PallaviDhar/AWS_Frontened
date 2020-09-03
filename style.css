@@ -1,0 +1,13 @@
+body{
+	background: #FF416C;  
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  
+	background: linear-gradient(to right, #FF4B2B, #FF416C); 
+}
+
+h2{
+	color: #0406FC ; 
+}
+
+button{
+	color: red;
+}
